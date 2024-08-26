@@ -5,12 +5,6 @@
 
 ---
 
-## Professional Summary
-
-I am a highly motivated software professional with over 10 years of experience in developing innovative solutions that enhance business performance. My expertise lies in architecting and implementing Retrieval-Augmented Generation (RAG)-based AI applications and building robust user interfaces using ReactJS. With a strong foundation in both frontend and backend development, I excel at managing teams, gathering and analyzing business requirements, and delivering top-tier software solutions. My technical skills include creating and managing REST APIs using Python FastAPI, developing machine learning models using frameworks like PyTorch and TensorFlow, and integrating these capabilities into seamless user experiences.
-
----
-
 ## Explore My Work Through Video Demonstrations
 
 1. **Salesforce Co-Pilot**  
