@@ -1,3 +1,7 @@
+Here's how you can incorporate the new project into your GitHub profile:
+
+---
+
 # SENTHILKUMAR R
 
 📧 [sk003cs@gmail.com](mailto:sk003cs@gmail.com)  
@@ -26,6 +30,25 @@
 5. **Adaptive Learning - Adjust Difficulty of Question Based on Student Previous Answer**  
    Demonstrates an adaptive learning system that dynamically adjusts the difficulty of questions based on a student's previous responses, providing a personalized learning experience.  
    [![Adaptive Learning](https://img.youtube.com/vi/e-uwVp7cnzc/0.jpg)](https://www.youtube.com/watch?v=e-uwVp7cnzc&list=PL2nFNCa2eqHJODEQUsFGwr1Pj8WgL4-lx&index=5)
+
+---
+
+## Latest Project: AI-Driven Book Management System
+
+I recently developed an **AI-Driven Book Management System** using Python, FastAPI, LangChain, and AWS infrastructure. This project showcases my expertise in integrating AI models, cloud deployment, and asynchronous programming. Key features include:
+
+- **Database Management:** Utilized AWS RDS PostgreSQL for efficient storage and retrieval of books and reviews.
+- **AI-Generated Summaries:** Integrated the Llama3 model, deployed on AWS SageMaker, for generating summaries of books based on their content.
+- **Personalized Recommendations:** Implemented two key scenarios:
+  - **Scenario 1:** Recommending books based on user preferences and written reviews using `pgvector` embeddings.
+  - **Scenario 2:** Providing tailored book suggestions based solely on user preferences for those without reviews.
+- **Asynchronous Programming:** Enhanced performance by implementing asynchronous operations for database interactions and AI model predictions using `sqlalchemy[asyncio]` and `asyncpg`.
+- **Embedding Generation and Similarity Search:** Utilized the HuggingFace model `distilbert-base-nli-mean-tokens` via a serverless API for generating embeddings, and performed similarity searches against book content.
+- **Content Extraction:** Employed LangChain loaders for extracting book content from files.
+- **API Development and Security:** Developed a secure RESTful API using FastAPI with JWT token protection, providing comprehensive documentation via Swagger.
+- **Dockerization:** Containerized the application using Docker for easy deployment and scalability
+
+This project demonstrates my ability to build and deploy advanced AI systems, ensuring secure and efficient operations.
 
 ---
 
