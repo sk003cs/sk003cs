@@ -26,6 +26,13 @@
 5. **Adaptive Learning - Adjust Difficulty of Question Based on Student Previous Answer**  
    Demonstrates an adaptive learning system that dynamically adjusts the difficulty of questions based on a student's previous responses, providing a personalized learning experience.  
    [![Adaptive Learning](https://img.youtube.com/vi/e-uwVp7cnzc/0.jpg)](https://www.youtube.com/watch?v=e-uwVp7cnzc&list=PL2nFNCa2eqHJODEQUsFGwr1Pj8WgL4-lx&index=5)
+6. **Crawler Bot**
+   Developed a parallel crawler bot capable of extracting data from static and dynamic webpages. It performs multi-threaded crawling, allowing for rapid data extraction and processing. This bot is designed to enhance the knowledge base by gathering extensive data efficiently.
+7. **Knowledge Base Bot**
+   Built a sophisticated knowledge base bot that uses AI to deliver accurate information from extensive databases and documents. This bot combines the power of large language models with a rich repository of data to provide contextually relevant answers to user queries.
+8. **Real-Time Bot**
+   Created a real-time bot for instant user interactions, offering immediate responses based on current data. This bot is integrated with RAG-based systems, ensuring it provides up-to-date and contextually accurate information, enhancing user engagement and satisfaction.
+
 
 ---
 
