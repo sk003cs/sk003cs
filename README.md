@@ -1,7 +1,3 @@
-Here's how you can incorporate the new project into your GitHub profile:
-
----
-
 # SENTHILKUMAR R
 
 📧 [sk003cs@gmail.com](mailto:sk003cs@gmail.com)  
